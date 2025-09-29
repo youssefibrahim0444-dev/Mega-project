@@ -1,0 +1,10 @@
+Added Component: Designator=*(Edge Connector)
+Added Pin To Net: NetName=NetC2_2 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=Net*_1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R3-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=R4-2
+Added Net: Name=Net*_4
