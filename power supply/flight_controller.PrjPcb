@@ -36,7 +36,9 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=4D860EBD-737D-4014-87BB-B9F899BC00F0
+VaultGUID=AA8E607D-D732-45C9-928C-35E7DA4DD61D
+ReleaseVaultName=OMAR RAGHEB
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -50,24 +52,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=task.SchDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
+ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SLMFRDPZ
+DocumentUniqueId=FQCNPSPQ
 
 [Document2]
-DocumentPath=task.PcbDoc
+DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +83,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VRYVGOFJ
+DocumentUniqueId=TUSQFBTD
 
 [Document3]
-DocumentPath=task_Schlib.SchLib
+DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,10 +100,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GKZWWTKD
+DocumentUniqueId=BGGXYSVH
 
 [Document4]
-DocumentPath=task_PcbLib.PcbLib
+DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +117,28 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EEFVOVAG
+DocumentUniqueId=MJKOKGPD
+
+[Document5]
+DocumentPath=Sheet2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NLQRHBTI
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for flight_controller\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -354,6 +377,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -766,6 +794,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -849,6 +886,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1004,6 +1047,16 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1050,36 +1103,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=task_Schlib.SchLib
-ComponentDesignItemID0=Capacitor
-ComponentSymbolReference0=Capacitor
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=task_Schlib.SchLib
-ComponentDesignItemID1=Header
-ComponentSymbolReference1=Header
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=task_Schlib.SchLib
-ComponentDesignItemID2=hx711
-ComponentSymbolReference2=hx711
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=task_Schlib.SchLib
-ComponentDesignItemID3=resistance
-ComponentSymbolReference3=resistance
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=task_Schlib.SchLib
-ComponentDesignItemID4=Transistor
-ComponentSymbolReference4=Transistor
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1093,42 +1116,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
-ParameterUpdate0=1
-ParameterName1=Component Kind
-ParameterUpdate1=1
-ParameterName2=Description
-ParameterUpdate2=1
-ParameterName3=Library Reference
-ParameterUpdate3=1
-ParameterName4=Manufacturer
-ParameterUpdate4=1
-ParameterName5=Manufacturer part
-ParameterUpdate5=1
-ParameterName6=supplier
-ParameterUpdate6=1
-ParameterName7=supplier part number
-ParameterUpdate7=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=Capacitor - duplicate
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=Edge Connector
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=mosfet
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=Resistor
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=SOP_16L
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=SOP16
-ModelUpdate5=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
