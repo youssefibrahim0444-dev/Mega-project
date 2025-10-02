@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=* NewDesignator=ESP32U
+Change Component Designator: OldDesignator=* NewDesignator=USB-B
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetC3_1
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetESP32U_8
+Change Net Name : Old Net Name=Net*_9 New Net Name=NetESP32U_9
+Change Net Name : Old Net Name=Net*_25 New Net Name=NetESP32U_25
+Change Net Name : Old Net Name=Net*_27 New Net Name=NetESP32U_27
+Change Net Name : Old Net Name=Net*_34 New Net Name=NetESP32U_34
+Change Net Name : Old Net Name=Net*_35 New Net Name=NetESP32U_35
+Added Pin To Net: NetName=NetJP4_5 Pin=JP4-5
+Added Net: Name=NetJP4_5
+Added Pin To Net: NetName=NetJP4_6 Pin=JP4-6
+Added Net: Name=NetJP4_6
+Added Pin To Net: NetName=NetJP4_16 Pin=JP4-16
+Added Net: Name=NetJP4_16
+Added Member To Class: ClassName=Sheet MP Member=Component ESP32U

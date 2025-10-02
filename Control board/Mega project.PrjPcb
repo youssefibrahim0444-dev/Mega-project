@@ -50,13 +50,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Control board\Sheet MP.SchDoc
+DocumentPath=Sheet MP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WNUXXIJI
 
 [Document2]
-DocumentPath=..\Control board\PCB MP.PcbDoc
+DocumentPath=PCB MP.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NBFLUMBK
 
 [Document3]
-DocumentPath=..\Control board\SchlibMP.SchLib
+DocumentPath=SchlibMP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JLAZSTXK
 
 [Document4]
-DocumentPath=..\Control board\PcbLibMG.PcbLib
+DocumentPath=PcbLibMG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

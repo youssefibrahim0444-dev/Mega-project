@@ -1,0 +1,127 @@
+Added Component: Designator=*(ESP32U)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "Ai-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "ESP32-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C277944"; VariantName = "[No Variations]"
+Added Component: Designator=*(USB-B - duplicate1)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "Switchcraft Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RAHUB20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "137-RAHUB20-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Capacitor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "EEHZA1V470P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C178639"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "EEHZA1V470P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C178639"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "EEHZA1V470P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C178639"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "EEHZA1V470P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C178639"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "EEHZA1V470P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C178639"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HEADER 2 PINS - duplicate)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "455-B2B-XH-A-ND"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(CH340G - duplicate1)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "CH340G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C14267"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C84376"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C84376"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C84376"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C84376"; VariantName = "[No Variations]"
+Added Component: Designator=T1(CRYSTAL)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "EPSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "Q13FC13500004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C32346"; VariantName = "[No Variations]"
+Added Component: Designator=X1(Resistor)
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER PART"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER PART NUMBER"; Value = "C84376"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-15
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=GND Pin=*-39
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP4-1
+Added Pin To Net: NetName=GND Pin=JP4-15
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=JP4-16
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=JP4-6
+Added Net: Name=Net*_2
+Add Net: Net with name "Net*_2" already exists
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=C3-1
+Added Pin To Net: NetName=Net*_3 Pin=R1-2
+Added Net: Name=Net*_3
+Add Net: Net with name "Net*_3" already exists
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=R4-2
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=X1-2
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=JP2-1
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Pin To Net: NetName=Net*_27 Pin=R6-1
+Added Net: Name=Net*_27
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=JP4-2
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=Net*_35 Pin=*-35
+Added Pin To Net: NetName=Net*_35 Pin=JP4-3
+Added Net: Name=Net*_35
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=T1-2
+Added Pin To Net: NetName=NetC4_1 Pin=X1-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R4-1
+Added Pin To Net: NetName=NetC?_1 Pin=R5-2
+Added Pin To Net: NetName=NetC?_1 Pin=T1-1
+Added Net: Name=NetC?_1
+Added Class: Name=Sheet MP
+Added Rule: Name=Schematic Supply Nets

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin *-5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC5_1
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_3" already exists
+Added Member To Class: ClassName=Sheet MP Member=Component * ESP32U
